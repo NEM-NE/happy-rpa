@@ -5,6 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.3-preview]",
+    "UiPath.GSuite.Activities": "[2.6.22]",
     "UiPath.Mail.Activities": "[1.22.2]",
     "UiPath.OpenAI.IntegrationService.Activities": "[6.1.0]",
     "UiPath.PDF.Activities": "[3.19.1]",

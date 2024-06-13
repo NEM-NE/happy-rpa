@@ -4,18 +4,5 @@
   "HelpLink": null,
   "Color": null,
   "OriginalIconFileName": null,
-  "Arguments": [
-    {
-      "Name": "GenerateChatCompletion_1_Connection0",
-      "DisplayName": "GenerateChatCompletion_1_uipath-openai-openai",
-      "Category": null,
-      "Tooltip": "Generate Chat Completion",
-      "Placeholder": null,
-      "Widget": "Connection",
-      "IsRequired": true,
-      "IsPrincipal": true,
-      "ArgumentType": 1,
-      "DataSourceItems": null
-    }
-  ]
+  "Arguments": []
 }
